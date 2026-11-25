@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prakt10_Leshukov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c56f0f1a06e22255e11777c33e5d7f99077a840")]
 [assembly: System.Reflection.AssemblyProductAttribute("prakt10_Leshukov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prakt10_Leshukov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

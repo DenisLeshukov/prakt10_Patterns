@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using prakt10_Leshukov.Pages;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -19,6 +20,7 @@ namespace prakt10_Leshukov
         public MainWindow ()
         {
             InitializeComponent( );
+            frame.Navigate(new HomePage());
         }
     }
 }

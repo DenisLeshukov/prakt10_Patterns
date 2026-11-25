@@ -13,28 +13,24 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <ListView Grid.Column="0">
+        <ListView SelectedItem="{Binding selectedPC}" ItemsSource="{Binding PCs}" Grid.Column="0">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <StackPanel>
-                        <StackPanel Orientation="Horizontal">
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Vertical">
                             <StackPanel>
-                                <Label>Процессор: </Label>
-                                <TextBlock Text="{Binding CPU}"></TextBlock>
+                                <TextBlock Text="{Binding CPU, StringFormat=Процессор: {0}}" ></TextBlock>
                             </StackPanel>
                             <StackPanel>
-                                <Label>Видеокарта: </Label>
-                                <TextBlock Text="{Binding GPU}"></TextBlock>
+                                
+                                <TextBlock Text="{Binding GPU, StringFormat=Видеокарта: {0}}"></TextBlock>
                             </StackPanel>
                             <StackPanel>
-                                <Label>ОЗУ:</Label>
-                                <TextBlock Text="{Binding OZU}"></TextBlock>
+                                <TextBlock Text="{Binding RAM, StringFormat=ОЗУ: {0} ГБ}"></TextBlock>
                             </StackPanel>
                             <StackPanel>
-                                <Label>Накопитель:</Label>
-                                <TextBlock Text="{Binding Harddisk}"></TextBlock>
+                                <TextBlock Text="{Binding HardDisk, StringFormat=Накопитель: {0} ГБ}"></TextBlock>
                             </StackPanel>
-                            
                         </StackPanel>
 
                     </StackPanel>
@@ -43,6 +39,8 @@
         </ListView>
         <StackPanel Grid.Column="1">
             <Button Click="GoToAdd">Добавить</Button>
+            <Button Click="Copy">Клонировать</Button>
+            <Button Click="Edit">Изменить</Button>
         </StackPanel>
     </Grid>
 </Page>
