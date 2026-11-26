@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Runtime.Intrinsics.Arm;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -33,7 +34,7 @@ namespace prakt10_Leshukov.Pages
 
         private void Edit(object sender, RoutedEventArgs e)
         {
-           
+            
             string json = JsonSerializer.Serialize(HomePage.PCs);
             File.WriteAllText("PCList.json", json);
             NavigationService.GoBack();

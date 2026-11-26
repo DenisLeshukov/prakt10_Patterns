@@ -31,7 +31,7 @@
         <ComboBox SelectedValuePath="Content" SelectedValue="{Binding CPU}" Grid.Column="1" Grid.Row="1" Height="30" >
             <ComboBoxItem Tag="AMD" Content="AMD"/>
             <ComboBoxItem Tag="Intel" Content="Intel"/>
-            <ComboBoxItem Tag="Байкал" Content="Intel"/>
+            <ComboBoxItem Tag="Байкал" Content="Байкал"/>
 
         </ComboBox>
         <Label Grid.Column="1" Grid.Row="2">Видеокарта</Label>
@@ -39,7 +39,7 @@
 
             <ComboBoxItem Tag="AMD" Content="AMD"/>
             <ComboBoxItem Tag="Nvidia" Content="Nvidia"/>
-            <ComboBoxItem Tag="Intel" Content="Nvidia"/>
+            <ComboBoxItem Tag="Intel" Content="Intel"/>
 
         </ComboBox>
         <Label Grid.Column="1" Grid.Row="3">ОЗУ, ГБ</Label>

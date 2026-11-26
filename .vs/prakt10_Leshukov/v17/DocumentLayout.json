@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\",
+  "WorkspaceRootPath": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\pages\\editpc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\editpc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\pages\\addpc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\addpc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\pages\\editpc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\editpc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\pages\\addpc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\pages\\addpc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\addpc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\models\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\pages\\editpc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\editpc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\st310-05\\desktop\\prakt10\\prakt10_patterns\\pages\\editpc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\editpc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\models\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:models\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\models\\pcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\pages\\addpc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\addpc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\models\\pcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:models\\pcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|c:\\users\\leshu\\desktop\\prakt10_patterns\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A65E6D42-F7F5-4105-8A4B-EFC4E9BD2656}|prakt10_Leshukov.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,23 +59,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EditPC.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\EditPC.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\EditPC.xaml.cs",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\EditPC.xaml.cs",
-              "RelativeToolTip": "Pages\\EditPC.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "Pages\\HomePage.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAIAwwDYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T17:33:23.035Z",
+              "WhenOpened": "2026-11-25T16:42:53.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PCBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Models\\PCBuilder.cs",
+              "RelativeDocumentMoniker": "Models\\PCBuilder.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Models\\PCBuilder.cs",
+              "RelativeToolTip": "Models\\PCBuilder.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:34:56.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddPC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\AddPC.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddPC.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\AddPC.xaml.cs",
+              "RelativeToolTip": "Pages\\AddPC.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:25:14.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PC.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Models\\PC.cs",
+              "RelativeDocumentMoniker": "Models\\PC.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Models\\PC.cs",
+              "RelativeToolTip": "Models\\PC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:16:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddPC.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\AddPC.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddPC.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\AddPC.xaml",
+              "RelativeToolTip": "Pages\\AddPC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T16:24:57.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T16:46:36.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "Pages\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T17:03:21.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EditPC.xaml",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\EditPC.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\EditPC.xaml",
               "RelativeDocumentMoniker": "Pages\\EditPC.xaml",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\EditPC.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\EditPC.xaml",
               "RelativeToolTip": "Pages\\EditPC.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-11-25T17:32:43.12Z",
@@ -84,103 +157,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\HomePage.xaml",
-              "RelativeDocumentMoniker": "Pages\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\HomePage.xaml",
-              "RelativeToolTip": "Pages\\HomePage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-25T17:03:21.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-25T16:46:36.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\HomePage.xaml.cs",
-              "RelativeToolTip": "Pages\\HomePage.xaml.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwEYAAAAMAAAAAAAAAA==",
+              "Title": "EditPC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\EditPC.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditPC.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\Pages\\EditPC.xaml.cs",
+              "RelativeToolTip": "Pages\\EditPC.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:42:53.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PCBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Models\\PCBuilder.cs",
-              "RelativeDocumentMoniker": "Models\\PCBuilder.cs",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Models\\PCBuilder.cs",
-              "RelativeToolTip": "Models\\PCBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:34:56.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddPC.xaml",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\AddPC.xaml",
-              "RelativeDocumentMoniker": "Pages\\AddPC.xaml",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\AddPC.xaml",
-              "RelativeToolTip": "Pages\\AddPC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-25T16:24:57.144Z",
+              "WhenOpened": "2026-11-25T17:33:23.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt10\\prakt10_Patterns\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:46:57.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PC.cs",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Models\\PC.cs",
-              "RelativeDocumentMoniker": "Models\\PC.cs",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Models\\PC.cs",
-              "RelativeToolTip": "Models\\PC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:16:40.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddPC.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\AddPC.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\AddPC.xaml.cs",
-              "ToolTip": "C:\\Users\\Leshu\\Desktop\\prakt10_Patterns\\Pages\\AddPC.xaml.cs",
-              "RelativeToolTip": "Pages\\AddPC.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwCwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:25:14.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:46:57.213Z"
             }
           ]
         }

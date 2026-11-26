@@ -48,6 +48,11 @@ namespace prakt10_Leshukov.Pages
 
         private void Copy(object sender, RoutedEventArgs e)
         {
+            if (selectedPC == null)
+            {
+                MessageBox.Show("Выберите одну из сборок");
+                return;
+            }
             var copyPC = new PCBuilder()
                 .SetCPU(selectedPC.CPU)
                 .SetGPU(selectedPC.GPU)

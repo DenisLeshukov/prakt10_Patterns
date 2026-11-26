@@ -38,6 +38,18 @@ namespace prakt10_Leshukov.Pages
 
         private void Add (object sender, RoutedEventArgs e)
         {
+            if (string.IsNullOrEmpty(CPU) || string.IsNullOrEmpty(GPU))
+            {
+                MessageBox.Show("Заполните поля");
+                return;
+            }
+               
+            if(RAM == 0 || Disk == 0)
+            {
+                MessageBox.Show("Заполните поля");
+                return;
+            }
+              
             var pc = new PCBuilder()
                 .SetCPU(CPU)
                 .SetGPU(GPU)
